@@ -1,4 +1,4 @@
-package src.DP;
+package DP;
 
 public class Fibonacci {
 
